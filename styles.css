@@ -1,0 +1,169 @@
+body{
+  text-align: center;
+  background-color: #E8F8F5;
+  font-family: 'Dela Gothic One', cursive;
+
+
+}
+
+h1{
+  height: 40%;
+  width: 40%;
+  margin:0 auto 0 auto;
+  background-color: none;
+  color: #66BFBF;
+
+
+
+
+}
+.top{
+  background-color: black;
+}
+
+
+
+.coder{
+  width: 50%;
+  position: relative;
+}
+
+p{
+  color: ##66BFBF;
+  font-family:sans-serif;
+  line-height:2;
+
+}
+
+h2{
+
+
+  color: ##66BFBF;
+  padding-bottom: 10px;
+
+}
+
+h3{
+
+
+  color:black;
+
+}
+
+.skill-row{
+
+text-align:left;
+margin:100 px auto 100 px auto;
+line-height: 2;
+width:100%;
+
+
+
+
+
+}
+
+.profile{
+
+}
+
+.picture{
+width: 25%;
+margin: auto;
+text-align: center;
+
+
+}
+
+.skillsphoto{
+width: 25%;
+float:left ;
+
+
+}
+
+.piphoto{
+width: 25%;
+float:left;
+
+}
+.middle-container{
+  margin:100px 0;
+}
+
+.intro{
+  width:100%;
+}
+
+hr{
+  border:dotted #0073e6;
+  border-bottom: none;
+  width:4%;
+  margin: 100px auto;
+}
+
+.contact-me{
+  width:40%;
+  margin:40px auto 60 px;
+margin: auto;
+}
+
+.BUTTON_EML
+{
+   background: #3DE5F6;
+   background-image: -webkit-linear-gradient(top, #3DE5F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3DE5F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3DE5F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3DE5F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3DE5F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 30px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+
+}
+
+.BUTTON_EML:hover
+{
+   background: blue;
+   border: solid red 1px;
+   -webkit-border-radius: 19px;
+   -moz-border-radius: 19px;
+   border-radius: 19px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  background-color:#337FED;
+  padding:5%;
+  text-indent: 50px;
+  margin:100px auto 0 auto;
+
+}
+
+a{
+  color:white;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:cyan;
+}
+
+.copyright{
+  background-color:red;
+}
